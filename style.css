@@ -180,3 +180,48 @@ a{
 }
 
 /**/
+
+/*section 4*/
+
+.section4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section4 .blue-container{
+    display: flex;
+    border-style: solid;
+    border-radius: 15px;
+    border-color: #3882F6;
+    background-color: #3882F6;
+    padding: 50px 170px;
+    margin:150px 50px;
+    gap:150px;
+}
+
+.blue-container .left-text2 .main{
+    color:white;
+    font-weight: bold;
+    font-size: large;
+    font-family: sans-serif;
+}
+
+.blue-container .left-text2 .secondary{
+    color:#E5E7EB;
+    font-size: 90%;
+    font-family: sans-serif;
+}
+
+.blue-container button{
+    border-style: solid;
+    border-color: white;
+    border-radius: 15px;
+    padding:10px 20px;
+    color:white;
+    background-color: #3882F6;
+    font-weight: bold;
+}
+
+/**/
