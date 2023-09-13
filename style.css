@@ -197,7 +197,7 @@ a{
     border-color: #3882F6;
     background-color: #3882F6;
     padding: 50px 170px;
-    margin:150px 50px;
+    margin:100px 50px;
     gap:150px;
 }
 
@@ -222,6 +222,20 @@ a{
     color:white;
     background-color: #3882F6;
     font-weight: bold;
+}
+
+/**/
+
+/*footer*/
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    color:white;
+    font-family: sans-serif;
+    padding: 32px;
 }
 
 /**/
